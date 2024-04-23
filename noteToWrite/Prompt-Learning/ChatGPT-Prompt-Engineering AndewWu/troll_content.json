@@ -1,0 +1,36 @@
+[{
+        "content": "This is a normal comment.",
+        "floor": "1",
+        "is_troll": 0,
+        "subcontent": {
+            "content": "This is a troll comment.",
+            "floor": "1-1",
+            "is_troll": 1,
+            "subcontent": {
+                "content": "This is a normal comment.",
+                "floor": "1-1-1",
+                "is_troll": 0,
+                "subcontent": null
+            }
+        }
+    },
+    {
+        "content": "This is a normal comment.",
+        "floor": "2",
+        "is_troll": 0,
+        "subcontent": null
+    },
+    {
+        "content": "This is a troll comment.",
+        "floor": "3",
+        "is_troll": 1,
+        "subcontent": null
+    },
+
+    {
+        "content": "This is a troll comment.",
+        "floor": "4",
+        "is_troll": 1,
+        "subcontent": null
+    }
+]
